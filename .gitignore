@@ -1,0 +1,44 @@
+# back_
+
+back_/node_modules
+
+
+# front_
+
+# dependencies
+front_/node_modules
+front_/.pnp
+front_/.pnp.js
+
+# testing
+front_/coverage
+
+# production
+front_/build
+
+# misc
+front_/.DS_Store
+front_/.env.local
+front_/.env.development.local
+front_/.env.test.local
+front_/.env.production.local
+
+front_/npm-debug.log*
+front_/yarn-debug.log*
+front_/yarn-error.log*
+
+# mobile_
+
+mobile_/node_modules/**/*
+mobile_/.expo/*
+mobile_/npm-debug.*
+mobile_/*.jks
+mobile_/*.p8
+mobile_/*.p12
+mobile_/*.key
+mobile_/*.mobileprovision
+mobile_/*.orig.*
+mobile_/web-build/
+mobile_/web-report/
+mobile_/# macOS
+mobile_/.DS_Store
