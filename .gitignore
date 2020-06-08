@@ -30,7 +30,7 @@ front_/yarn-error.log*
 # mobile_
 
 mobile_/node_modules/**/*
-mobile_/.expo/*
+mobile_/.expo*/*
 mobile_/npm-debug.*
 mobile_/*.jks
 mobile_/*.p8
@@ -42,3 +42,4 @@ mobile_/web-build/
 mobile_/web-report/
 mobile_/# macOS
 mobile_/.DS_Store
+mobile_/yarn.lock
